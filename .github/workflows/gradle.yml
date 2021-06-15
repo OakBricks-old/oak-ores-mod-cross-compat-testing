@@ -30,3 +30,4 @@ jobs:
       with:
         # Artifact name
         name: oakores-cursed # optional, default is artifact
+        path: build/libs
